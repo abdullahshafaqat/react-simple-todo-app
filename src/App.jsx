@@ -1,8 +1,8 @@
 
-import Navbar from 'd:/myreactpage/mywebsite/src/components/Navbar'
+import Navbar from 'd:/reactapp/todoapp/src/components/Navbar';
 import React from 'react';
-import { TodoProvider } from 'd:/myreactpage/mywebsite/src/Context/TodoContext';
-import TodoApp from 'd:/myreactpage/mywebsite/src/components/Todo';
+import { TodoProvider } from 'd:/reactapp/todoapp/src/Context/TodoContext';
+import TodoApp from 'd:/reactapp/todoapp/src/components/Todo';
 
 const App = () => {
   return (<>
